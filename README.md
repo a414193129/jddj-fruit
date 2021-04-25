@@ -15,6 +15,9 @@
  boxjs订阅好，然后cookies抓一下  放圈x跑
 
 0 8,11,16 * * * https://gitee.com/passerby-b/javascript/raw/master/JD/jddj_fruit.js , tag=京东到家果园任务, enabled=true
+
 0 6 * * * https://gitee.com/passerby-b/javascript/raw/master/JD/jddj_bean.js , tag=京东到家鲜豆任务, enabled=true
+
 */5 * * * * https://gitee.com/passerby-b/javascript/raw/master/JD/jddj_getPoints.js , tag=京东到家鲜豆庄园收水滴, enabled=true
+
 0 6 * * * https://gitee.com/passerby-b/javascript/raw/master/JD/jddj_plantBeans.js , tag=京东到家鲜豆庄园, enabled=true
