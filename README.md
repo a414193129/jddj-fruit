@@ -1,23 +1,20 @@
-# jddj-fruit
-不是我写的 白嫖的 
-人家原版https://gitee.com/passerby-b/javascript/tree/master/JD 
+# dust
+  #### 尘归尘 土归土
+  #### 繁华 不过一拘细沙
+  ![](https://raw.githubusercontent.com/monk-coder/dust/dust/pics/readme.jpg)
+# 声明
+- 这不是一个开源项目，只是把GitHub当作一个代码的存储空间，本项目不接受任何开源要求。
+- 仅用于学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
+- 仓库内所有资源文件，禁止任何公众号、自媒体、开发者进行任何形式的转载、发布、搬运。
+- `和尚` 对任何脚本问题概不负责，包括但不限于由任何脚本错误导致的任何损失或损害.
+- 间接使用脚本的任何用户，包括但不限于建立VPS或在某些行为违反国家/地区法律或相关法规的情况下进行传播, `和尚` 对于由此引起的任何隐私泄漏或其他后果概不负责.
+- 如果任何单位或个人认为该项目的脚本可能涉嫌侵犯其权利，则应及时通知并提供身份证明，所有权证明，我们将在收到认证文件后删除相关脚本.
+- 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。 `和尚` 保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或项目的规则，则视为您已接受此免责声明.
+- 您必须在下载后的24小时内从计算机或手机中完全删除以上内容.
 
-//用抓包抓 https://daojia.jd.com/html/index.html 页面cookie填写到下面,暂时不知cookie有效期
-//抓多账号直接清除浏览器缓存再登录新账号,千万别点退出登录,否则cookie失效
-//cookie只要里面的deviceid_pdj_jd=xxx-xxx-xxx;o2o_m_h5_sid=xxx-xxx-xxx关键信息
-//京东到家鲜豆任务脚本,支持qx,loon,shadowrocket,surge,nodejs 
- //用抓包抓 https://daojia.jd.com/html/index.html 页面cookie填写到下面,暂时不知cookie有效期 
- //抓多账号直接清除浏览器缓存再登录新账号,千万别点退出登录,否则cookie失效 
- //cookie只要里面的deviceid_pdj_jd=xxx-xxx-xxx;o2o_m_h5_sid=xxx-xxx-xxx关键信息 
- //一天运行一次 
- //boxjs订阅地址:https://gitee.com/passerby-b/javascript/raw/master/JD/passerby-b.boxjs.json 
- 
- boxjs订阅好，然后cookies抓一下  放圈x跑
+# 社交
+- [  电报通知  ](https://t.me/monk_dust_channel)
 
-0 8,11,16 * * * https://gitee.com/passerby-b/javascript/raw/master/JD/jddj_fruit.js , tag=京东到家果园任务, enabled=true
-
-0 6 * * * https://gitee.com/passerby-b/javascript/raw/master/JD/jddj_bean.js , tag=京东到家鲜豆任务, enabled=true
-
-*/5 * * * * https://gitee.com/passerby-b/javascript/raw/master/JD/jddj_getPoints.js , tag=京东到家鲜豆庄园收水滴, enabled=true
-
-0 6 * * * https://gitee.com/passerby-b/javascript/raw/master/JD/jddj_plantBeans.js , tag=京东到家鲜豆庄园, enabled=true
+ # 特别感谢
+ - 脚本使用了 [  @chavyleung  ](https://github.com/chavyleung) 的 `Env` 函数
+ - 经过柘柘授权，会把他之前的脚本存放在本仓库中。
