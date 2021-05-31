@@ -6,7 +6,7 @@
 ============Quantumultx===============
 [task_local]
 #沸腾之夜
-0 15-19/1 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_party_night.js, tag=沸腾之夜, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
+55,1 21-23/1 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_party_night.js, tag=沸腾之夜, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 
 ================Loon==============
 [Script]
