@@ -1,3 +1,7 @@
+/*
+[task_local]
+15 13 1-18 6 * https://raw.githubusercontent.com/panghu999/panghu/master/jd_gcip.js, tag= 柠檬特物国创IP, img-url=http://nm66.top/1.jpg, enabled=true
+*/
 /**
  * Author:Panda
  * Date:2021-06-03
