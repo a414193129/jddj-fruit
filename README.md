@@ -1,3 +1,24 @@
+V4调用
+OwnRepoUrl1="https://ghproxy.com/https://github.com/nianyuguai/longzhuzhu/"
+OwnRepoUrl2="https://ghproxy.com/https://github.com/nick814/jddj-fruit"
+OwnRepoUrl3="https://ghproxy.com/https://github.com/nick814/jddj-fruit"
+OwnRepoUrl4="https://ghproxy.com/https://github.com/nick814/jddj-fruit"
+OwnRepoUrl5="https://ghproxy.com/https://github.com/nick814/jddj-fruit"
+
+OwnRepoBranch1="main"
+OwnRepoBranch2="main"
+OwnRepoBranch3="main"
+OwnRepoBranch4="main"
+OwnRepoBranch5="main"
+
+
+OwnRepoPath1="qx"
+OwnRepoPath2="i-chenzhe"
+OwnRepoPath3="car"
+OwnRepoPath4="member"
+OwnRepoPath5="normal"
+
+
 # dust
   #### 尘归尘 土归土
   #### 繁华 不过一拘细沙
