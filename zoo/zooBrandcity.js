@@ -8,7 +8,7 @@
  * 活动时间：2021-06-01至2021-06-18
  /*
 [task_local]
-15 9 1-18 6 * https://raw.githubusercontent.com/panghu999/panghu/master/zooBrandcity.js, tag= 柠檬特物国创IP, img-url=http://nm66.top/1.jpg, enabled=true
+15 9 1-18 6 * https://raw.githubusercontent.com/nick814/jddj-fruit/main/zoo/zooBrandcity.js, tag= 柠檬特物国创IP, img-url=http://nm66.top/1.jpg, enabled=true
 */
  * 
  * 
