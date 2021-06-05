@@ -10,7 +10,7 @@
  * Note: 默认开通宝洁VIP会员卡
  /*
 [task_local]
-18 9 1-18 6 * https://raw.githubusercontent.com/panghu999/panghu/master/jd_gcip.js, tag= 柠檬特物国创IP, img-url=http://nm66.top/1.jpg, enabled=true
+18 9 1-18 6 * https://raw.githubusercontent.com/nick814/jddj-fruit/main/zoo/zooBaojiexiaoxiaole.js, enabled=true
 */
 /**
 * 
