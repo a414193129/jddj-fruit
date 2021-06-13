@@ -29,7 +29,7 @@ let cookiesArr = [], cookie = '',secretp = '',shareCodeList = [],showCode = true
 let doPkSkill = true;  //自动放技能，不需要的改为false
 
 // 外部助力码
-let shareCodes = ["sSKNX-MpqKONvefjkZrda2G-mE8hpwzuVKFoEFW9","sSKNX-MpqKOJsNvE6-SDQj52TkVjDmnO0j8eXVM7C9EWyhlfdqiy3NJaQ63egA","sSKNX-MpqKPB_dPxesE67eAS4Ly8nJrac0TZRWz9vKNwf95JEZeHen4-W4g",""];
+let shareCodes = ["sSKNX-MpqKONvefjkZrda2G-mE8hpwzuVKFoEFW8","sSKNX-MpqKOJsNvE6-SDQj52TkVjDmnO0j8eXVM7C9EWyhlfdqiy3NJaQ63egQ","sSKNX-MpqKPS4Ly8nJraB_dPxesE67eAc0TZRWz9vKNwf95JEZeHen4-W4k","sSKNX-MpqKOJsNu9nJLYUCERz05Zx5N9dBlMUYO_ASMsq_7fYGKrkrKMYxNVY9hZ"];
 if (process.env.JD_ZOO_ZLCODE) {
   shareCodes = process.env.JD_ZOO_ZLCODE.split('@').slice(0, 5);
 }
