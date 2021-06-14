@@ -360,7 +360,7 @@ function zoo_getHomeData(inviteId= "",timeout = 0) {
             secretp = data.data.result.homeMainInfo.secretp
             await zoo_collectProduceScore();
             if (merge.black) return;
-            await zoo_pk_getHomeData('sSKNX-MpqKONvefjkZrda2G-mE8hpwzuVKFoEFW8','sSKNX-MpqKOJsNvE6-SDQj52TkVjDmnO0j8eXVM7C9EWyhlfdqiy3NJaQ63egQ','sSKNX-MpqKPS4Ly8nJraB_dPxesE67eAc0TZRWz9vKNwf95JEZeHen4-W4k','sSKNX-MpqKOJsNu9nJLYUCERz05Zx5N9dBlMUYO_ASMsq_7fYGKrkrKMYxNVY9hZ')
+            await zoo_pk_getHomeData('sSKNX-MpqKONvefjkZrda2G-mE8hpwzuVKFoEFW7','sSKNX-MpqKOJsNvE6-SDQj52TkVjDmnO0j8eXVM7C9EWyhlfdqiy3NJaQ63egQ','sSKNX-MpqKPS4Ly8nJraB_dPxesE67eAc0TZRWz9vKNwf95JEZeHen4-W4k','sSKNX-MpqKOJsNu9nJLYUCERz05Zx5N9dBlMUYO_ASMsq_7fYGKrkrKMYxNVY9hZ')
             //await zoo_pk_assistGroup()
             //if (data.data.result.homeMainInfo.raiseInfo.buttonStatus === 1 )
             if (parseInt(data.data.result.homeMainInfo.raiseInfo.totalScore) >= parseInt(data.data.result.homeMainInfo.raiseInfo.nextLevelScore) ) await zoo_raise(1000)
