@@ -1,5 +1,5 @@
 //助力码目前只支持一个
-let shareCode = '';
+let shareCode = '193bc68203602cdf225de461165669b5';
 
 
 let cookiesArr = []
