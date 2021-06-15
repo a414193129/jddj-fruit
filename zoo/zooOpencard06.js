@@ -1,6 +1,6 @@
  /*
 [task_local]
-15 9 9-20 6 *https://raw.githubusercontent.com/nick814/jddj-fruit/main/zoo/zooOpencard06.js, tag= 618母婴夺宝大作战, img-url=http://nm66.top/1.jpg, enabled=true
+15 9 9-20 6 * https://raw.githubusercontent.com/nick814/jddj-fruit/main/zoo/zooOpencard06.js, tag= 618母婴夺宝大作战, img-url=http://nm66.top/1.jpg, enabled=true
 */
 /**
 /**
