@@ -1,7 +1,3 @@
- /*
-[task_local]
-15 9 1-18 6 * https://raw.githubusercontent.com/nick814/jddj-fruit/main/zoo/zooOpencard08.js, tag= 618母婴夺宝大作战, img-url=http://nm66.top/1.jpg, enabled=true
-*/
 /**
  * Author:Panda
  * Date:2021-06-15
