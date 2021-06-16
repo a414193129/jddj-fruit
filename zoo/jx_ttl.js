@@ -1,14 +1,5 @@
-/*
-E神TTl
-===================quantumultx================
-[task_local]
-#E神TTl
-10 0 * * * https://raw.githubusercontent.com/nick814/jddj-fruit/main/zoo/jx_ttl.js, tag=E神TTl, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
-
-*/
-
 // 助力码位置
-const shareCode = ["OdzDagBMoJ1RX3LR8oixjbb-8eSuV0A-2g3z2xXqCzM","OdzDagBMoJ1RX3LR8oixjWgL6S-S79Oee0XjTyGoW_NT1NtBRofNlG2FIheJsW6I","OdzDagBMoJ1RX3LR8oixjQmKGK8Kj2tiZSofnb0lNHsx7_oVZJuoRBpJ1rujeMmR","OdzDagBMoJ1RX3LR8oixjbHsNgW9Bfb-L8IcFPex-a2iq5EKlnTAUvQ-QJGuqJeZ"];;
+const shareCode = ["","","",""];;
 // cookie 位置
 const cookiesArr = [];
 
