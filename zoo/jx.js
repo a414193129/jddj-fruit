@@ -1,5 +1,5 @@
 // 助力码位置
-const shareCode = [''];
+const shareCode = [];
 // cookie 位置
 const cookiesArr = [];
 
