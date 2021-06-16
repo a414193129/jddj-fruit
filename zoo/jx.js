@@ -1,5 +1,5 @@
 // 助力码位置
-const shareCode = [];
+const shareCode = ['QZRR6XCI0kJS49w-ATy8PLb-8eSuV0A-2g3z2xXqCzM','QZRR6XCI0kJS49w-ATy8PGgL6S-S79Oee0XjTyGoW_NT1NtBRofNlG2FIheJsW6I','QZRR6XCI0kJS49w-ATy8PAmKGK8Kj2tiZSofnb0lNHsx7_oVZJuoRBpJ1rujeMmR','QZRR6XCI0kJS49w-ATy8PLHsNgW9Bfb-L8IcFPex-a2iq5EKlnTAUvQ-QJGuqJeZ'];
 // cookie 位置
 const cookiesArr = [];
 
