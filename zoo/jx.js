@@ -1,5 +1,5 @@
 // 助力码位置
-const shareCode = ["OdzDagBMoJ1RX3LR8oixjbb-8eSuV0A-2g3z2xXqCzM","OdzDagBMoJ1RX3LR8oixjWgL6S-S79Oee0XjTyGoW_NT1NtBRofNlG2FIheJsW6I","OdzDagBMoJ1RX3LR8oixjQmKGK8Kj2tiZSofnb0lNHsx7_oVZJuoRBpJ1rujeMmR","OdzDagBMoJ1RX3LR8oixjbHsNgW9Bfb-L8IcFPex-a2iq5EKlnTAUvQ-QJGuqJeZ"];;
+const shareCode = ['pvO_ESNFuYf5kqZktZrCr2gL6S-S79Oee0XjTyGoW_NT1NtBRofNlG2FIheJsW6I','pvO_ESNFuYf5kqZktZrCrwmKGK8Kj2tiZSofnb0lNHsx7_oVZJuoRBpJ1rujeMmR','pvO_ESNFuYf5kqZktZrCr7HsNgW9Bfb-L8IcFPex-a2iq5EKlnTAUvQ-QJGuqJeZ'];
 // cookie 位置
 const cookiesArr = [];
 
@@ -112,9 +112,16 @@ async function enrollFriend(cookie, strPin) {
         }
         reject(error);
       }
+	  
     );
   });
 }
+const sleep =(ms) =>{
+		  return new Promise((resolve) => {
+			  setTimeout(resolve, ms);
+			  
+		  });
+	  };
 
 async function main() {
   if (shareCode.length < 1) {
@@ -130,6 +137,7 @@ async function main() {
   } else {
     for await (const code of shareCode) {
       for await (const ck of cookiesArr) {
+		await sleep(1000);
         const res = await enrollFriend(ck, code);
         const { sErrMsg, iRet } = res;
         console.log(`助力 ${code} 结果：${sErrMsg}`);
