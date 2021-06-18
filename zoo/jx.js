@@ -1,5 +1,5 @@
 // 助力码位置
-const shareCode = ['P2TwU44TUyHootit3IWdULb-8eSuV0A-2g3z2xXqCzM','P2TwU44TUyHootit3IWdUGgL6S-S79Oee0XjTyGoW_NT1NtBRofNlG2FIheJsW6I','P2TwU44TUyHootit3IWdUAmKGK8Kj2tiZSofnb0lNHsx7_oVZJuoRBpJ1rujeMmR','P2TwU44TUyHootit3IWdULHsNgW9Bfb-L8IcFPex-a2iq5EKlnTAUvQ-QJGuqJeZ'];
+const shareCode = ['P2TwU44TUyHootit3IWdUGgL6S-S79Oee0XjTyGoW_NT1NtBRofNlG2FIheJsW6I','P2TwU44TUyHootit3IWdUAmKGK8Kj2tiZSofnb0lNHsx7_oVZJuoRBpJ1rujeMmR','P2TwU44TUyHootit3IWdULHsNgW9Bfb-L8IcFPex-a2iq5EKlnTAUvQ-QJGuqJeZ'];
 // cookie 位置
 const cookiesArr = [];
 
