@@ -24,7 +24,7 @@ cron "30 9,10 1-18 6 *" script-path=https://g/jd_scripts/raw/ tag=新潮品牌�
  */
 const $ = new Env('新潮品牌狂欢');
 //Node.js用户请在jdCookie.js处填写京东ck;
-const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
+const jdCookieNode = $.isNode() ? require('./jdCookie.js.js') : '';
 
 const randomCount = $.isNode() ? 20 : 5;
 const notify = $.isNode() ? require('./sendNotify') : '';
